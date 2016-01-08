@@ -1,0 +1,19 @@
+﻿body {
+    padding:0px;
+    margin:0px;
+}
+#login {
+    padding-top:100px;
+    text-align:center;
+}
+#left {
+    width:100px;
+    float:left;
+    padding-right:10px;
+}
+#right {
+    text-align:center;
+    float:right;
+    padding-left:200px;
+    width:500px;
+}

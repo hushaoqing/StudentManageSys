@@ -1,0 +1,28 @@
+﻿body 
+{
+   margin:0px auto;
+}
+h2
+{
+    font-size:35px;
+    text-align:center;
+    border-bottom:2px #ccc solid;
+}
+.input
+{
+}
+a
+{
+    text-decoration:none;
+    color:Black;
+}
+.text
+{
+    margin:0px auto;
+    text-align:center;
+}
+div
+{
+    margin-bottom:50px;
+    text-align:center;
+}

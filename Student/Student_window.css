@@ -1,0 +1,83 @@
+﻿body {
+    
+}
+h1,h2,p{
+   margin:0px; 
+   padding:0px;
+   color:Black;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+h2
+{
+    margin-left:280px;
+}
+a:hover{
+    color:red
+}
+p
+{
+    color:Red;
+}
+div
+{
+    margin-top:16px;
+}
+.two
+{
+    color:Red;
+    margin-top:16px;
+    margin-left:8px;
+}
+h1
+{
+    font-size:40px;
+}
+h2
+{
+}
+.top
+{
+    text-align:center;
+    border-bottom:2px #999 solid;
+    margin-bottom:0px;
+}
+.left
+{
+    float:left;
+    margin-top:0px;
+    width:100px;
+    margin-left:20px;
+    height:570px;
+    margin-right:400px;
+    border-right:2px #999 solid;
+}
+.positon
+{    
+    padding-top:20px;
+}
+.main
+{
+    width:800px;
+    height:600px;
+    float:Left;
+}
+tr
+{
+    margin-top:10px;
+}
+.text_align
+{
+    text-align:center;
+}
+.location
+{
+    margin-left:80px;
+    margin-right:40px;
+}
+.location2
+{
+    margin-top:25px;
+}
